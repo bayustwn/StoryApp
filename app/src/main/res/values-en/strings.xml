@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="register_desc">Fill in the following information to register</string>
+    <string name="valid_email">Enter a valid email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_error">Password at least 8 characters</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="already_have_acc">Already have an account? <b>Login</b></string>
+    <string name="welcome_back">Hello, you\'re back</string>
+    <string name="login_desc">Fill information to login</string>
+    <string name="login">Login</string>
+    <string name="does_not_have_acc">Don\'t have an account yet? <b>Sign up</b></string>
+    <string name="close">Okay</string>
+    <string name="form_error">Fill the data correctly</string>
+    <string name="register_success">Registration success, let\'s login</string>
+    <string name="story_not_exist">No story yet</string>
+    <string name="upload">upload</string>
+    <string name="logout">Logout</string>
+    <string name="story">Story</string>
+    <string name="write_content">Write content</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="take_photo_failure">Can\'t take picture</string>
+    <string name="upload_error">Upload Error</string>
+    <string name="upload_success">Upload Sukses</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="cancel">Cancel</string>
+    <string name="sure_logout">Are you sure to logout?</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galley</string>
+    <string name="camera_permission_error">Can\'t Access Camera</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="welcome">Welcome to StoryApp</string>
+    <string name="show_or_hide">show or hide password</string>
+    <string name="tambahkan_lokasi">Include Location?</string>
+    <string name="lokasi_tidak_di_izinkan">Allow location permission first</string>
+    <string name="lokasi_tidak_ditemukan">Location not found.</string>
+    <string name="gagal_mendapatkan_lokasi">Failed getting location</string>
+    <string name="retry">Retry</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="register_desc">Isi Informasi berikut untuk mendaftar</string>
+    <string name="valid_email">Masukkan email yang valid</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_error">Password minimal 8 karakter</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="already_have_acc">Sudah punya akun? <b>Masuk</b></string>
+    <string name="welcome_back">Hallo, Kamu Kembali</string>
+    <string name="login_desc">Isi informasi untuk login</string>
+    <string name="login">Masuk</string>
+    <string name="does_not_have_acc">Belum mempunyai akun? <b>Daftar</b></string>
+    <string name="close">Okay</string>
+    <string name="form_error">Isi Data Dengan Benar</string>
+    <string name="register_success">Berhasil Registrasi, Silahkan Masuk</string>
+    <string name="story_not_exist">Tidak ada story</string>
+    <string name="upload">upload</string>
+    <string name="logout">keluar</string>
+    <string name="story">Story</string>
+    <string name="write_content">Tulis konten</string>
+    <string name="no_image_selected">Gambar tidak dipilih</string>
+    <string name="take_photo_failure">Gagal mengambil foto</string>
+    <string name="upload_error">Upload Error</string>
+    <string name="upload_success">Upload Sukses</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="cancel">Batal</string>
+    <string name="sure_logout">Yakin Logout?</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera_permission_error">Tidak dapat mengakses kamera</string>
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="welcome">Selamat Datang di StoryApp</string>
+    <string name="show_or_hide">tampilkan atau sembunyikan password</string>
+    <string name="tambahkan_lokasi">Tambahkan Lokasi?</string>
+    <string name="lokasi_tidak_di_izinkan">Lokasi tidak di izinkan</string>
+    <string name="lokasi_tidak_ditemukan">Lokasi tidak ditemukan.</string>
+    <string name="gagal_mendapatkan_lokasi">Gagal mendapatkan lokasi</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
